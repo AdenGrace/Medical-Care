@@ -1,0 +1,70 @@
+
+WBC :
+Indicate viral disease, immune system failure and in very rare cases cancer.
+therapy: to rest at home if there was cancer: Entrectinib
+Neut :
+Most often indicate a bacterial infection.
+therapy: in case of bacterial infections, antibiotic infection
+Lymph :
+May indicate a prolonged bacterial infection or lymphoma cancer.
+therapy: in case of bacterial infections antibiotic infection.if there was complications of cancer Entrectinib
+RBC :
+May indicate a disturbance in the blood production system.High levels were also observed in smokers and in patients In lung diseases.
+therapy: 10 mg pill of B12 a day for a month and 5 mg pill of folic acid a day for a month Referral for X-ray of the lungs
+Its ok
+Urea :
+May indicate kidney disease, dehydration or a high protein diet.
+therapy: in case of kidney disease balances blood sugar levels, in case of dehydration Complete rest while lying down, returning fluids to drinking in case of high protein diet Schedule an appointment with a nutritionist
+Hb: 
+Indicates anemia. This can be due to hematologic disorder, iron deficiency and bleeding.
+Hb: 
+therapy: in case of anemia Two 10 mg B12 pills a day for a month, in case of hematologic disorder An injection of a hormone to encourage red blood cell production, in case of iron deficiency Two 10 mg pills of B12 a day for a month, in case of bleeding To be evacuated urgently to the hospital
+Creatinine :
+May indicate a kidney problem and in severe cases kidney failure. High values are possible Also found in diarrhea and vomiting (causes of increased muscle breakdown and high levels of creatinine), muscle diseases And increased consumption of meat.
+therapy: two pills 5 mg of Altman c3 turmeric a day for a month, to coordinate an appointment with a nutritionist
+Its ok
+Its ok
+Alkaline :
+Its okname :hnjBDNS
+id :785948U
+gender :Female
+age :12
+
+WBC :
+Indicate viral disease, immune system failure and in very rare cases cancer.
+therapy: to rest at home if there was cancer: Entrectinib
+
+Neut :
+Most often indicate a bacterial infection.
+therapy: in case of bacterial infections, antibiotic infection
+
+Lymph :
+May indicate a prolonged bacterial infection or lymphoma cancer.
+therapy: in case of bacterial infections antibiotic infection.if there was complications of cancer Entrectinib
+
+RBC :
+May indicate a disturbance in the blood production system.High levels were also observed in smokers and in patients In lung diseases.
+therapy: 10 mg pill of B12 a day for a month and 5 mg pill of folic acid a day for a month Referral for X-ray of the lungs
+
+Its ok
+
+Urea :
+May indicate kidney disease, dehydration or a high protein diet.
+therapy: in case of kidney disease balances blood sugar levels, in case of dehydration Complete rest while lying down, returning fluids to drinking in case of high protein diet Schedule an appointment with a nutritionist
+
+Hb: 
+Indicates anemia. This can be due to hematologic disorder, iron deficiency and bleeding.
+Hb: 
+therapy: in case of anemia Two 10 mg B12 pills a day for a month, in case of hematologic disorder An injection of a hormone to encourage red blood cell production, in case of iron deficiency Two 10 mg pills of B12 a day for a month, in case of bleeding To be evacuated urgently to the hospital
+
+Creatinine :
+May indicate a kidney problem and in severe cases kidney failure. High values are possible Also found in diarrhea and vomiting (causes of increased muscle breakdown and high levels of creatinine), muscle diseases And increased consumption of meat.
+therapy: two pills 5 mg of Altman c3 turmeric a day for a month, to coordinate an appointment with a nutritionist
+
+Its ok
+
+Its ok
+
+Alkaline :
+Its ok
+
